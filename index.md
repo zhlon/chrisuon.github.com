@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+#chris library
 
-You can use the [editor on GitHub](https://github.com/zhlon/chrisuon.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##许子东，浙江天台人，出生于上海。 [1]  现任香港岭南大学中文系教授。
+华东师范大学中文系文学硕士，美国加州大学洛杉矶分校(UCLA）东亚语言文化系文学硕士，香港大学中文学系哲学博士 [2]  。历任华东师范大学副教授 [3]  ，中国文艺理论研究会理事，中国当代文学研究会理事 [4]  。主要研究领域为郁达夫研究、张爱玲研究、"文革"小说研究等。2000年起担任凤凰卫视《锵锵三人行》节目嘉宾。 [5] 
+著有《郁达夫新论》《为了忘却的集体记忆-解读50篇文革小说》《香港短篇小说初探》《张爱玲的文学史意义》等作品。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhlon/chrisuon.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###在1949年之前，许子东的父亲是一家医院的院长，并且做过上海私人医生医师工会的秘书长，日本人占领上海以后就辞职了。幼年时，许子东并不知道自己家庭的特殊性。直到他上小学三四年级，看到二哥的入团申请书，这才知道三个哥哥中，二哥和自己是同母异父，大哥和三哥则是同父异母。只有自己这个小儿子，亲生父母都健在。小学最后一年，许子东继在北京某大学任教的大哥和在东北石油学院上学的三哥之后，加入了造反的队伍。当他和同学去上海第六人民医院一条弄堂的别墅抄家时，另一个弄堂的小孩告诉许子东说他家也被抄了。许子东的家被抄了三次，他很快丧失了造反资格。
+1970年4月，许子东加入到知青下乡的队伍，到了江西广昌甘州公社千善大队古坊生产队。
+许子东
+许子东(5张)
+1973年冬，因为患了急性肝炎，许子东回到上海，在上海图书馆看了一年书。
+1976年4月，22岁的许子东回到上海，被分配到上钢八厂。接着被推荐到上海冶金局自办的“工农兵大学”（七二一大学）。
+1977年年底，报考了华东师范大学中文系文学研究生，主要研究领域是郁达夫，后来结集为《郁达夫新论》一书，被收入浙江文艺出版社“新人文论”丛书里。因为这本书，许子东在29岁就被破格提升为副教授。在此期间，他认识了上海电视台节目主持人陈燕华并结婚。
+1990年9月，已经是副教授的许子东到美国加州大学洛杉矶分校攻读博士学位，开始研究张爱玲。
+1993年进入香港岭南大学任教，并在香港大学攻读博士学位。
+2000年，应梁文道所邀成为凤凰卫视“锵锵三人行”的常任嘉宾，从学术角度界入节目，把学术融入日常话题中。 [7] 
+现任香港岭南大学中文系教授。同时亦担任华东师范大学中文系兼职教授，中国文艺理论学会副会长。 [6] 
